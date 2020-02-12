@@ -1,7 +1,7 @@
 # Дополнительные учебные материалы
 
+
 ## Профессиональный HTML и CSS Уровень 1
-***
 
 ## Вводный
 
@@ -9,7 +9,6 @@
 
 [Обзор редакторов для верстальщика.](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 
----
 
 #### Графические редакторы:
 
@@ -17,7 +16,6 @@
 <https://www.adobe.com/ru/products/illustrator.html><br>
 <https://www.sketchapp.com/><br>
 
----
 
 ### Как работают сайты на самом деле:
 
@@ -26,7 +24,6 @@
 [Комикс «как работает DNS».](https://howdns.works/ep1/)<br>
 [Как зарегистрировать свой домен.](https://htmlacademy.ru/blog/48-how-to-register-domain)<br>
 
----
 
 #### Программы для работы с GitHub:
 
@@ -34,7 +31,6 @@
 <https://www.sourcetreeapp.com/><br>
 <https://www.gitkraken.com/><br>
 
----
 
 ##### Полезные материалы по работе с Git:
 
@@ -73,3 +69,4 @@
 [Google HTML/CSS Style Guide (перевод)](https://google.github.io/styleguide/htmlcssguide.html)<br>
 
 ***
+
